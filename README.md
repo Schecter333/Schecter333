@@ -1,17 +1,8 @@
+
 # Hi, I'm Darren
 
 
-<a href="
-https://www.linkedin.com/in/darren-fanourakis-515a17a6/
-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="
-https://learn.microsoft.com/en-us/users/darrenfanourakis-8844/
-"><img src="https://img.shields.io/badge/-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=green,red,blue,yellow" /></a> <a href="
-https://learn.microsoft.com/en-us/users/darrenfanourakis-8844/transcript/734k6cgonmqmzj3
-"><img src="https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a> <a href="
-https://tryhackme.com/p/darren.fanouraki
-"><img src="https://img.shields.io/badge/-TryHackMe-1a1a1a?style=for-the-badge&logo=tryhackme" /></a> <a href="
-https://www.udemy.com/user/darren-fanourakis-2
-"><img src="https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/darren-fanourakis-515a17a6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://learn.microsoft.com/en-us/users/darrenfanourakis-8844/"><img src="https://img.shields.io/badge/-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=green,red,blue,yellow" /></a> <a href="https://learn.microsoft.com/en-us/users/darrenfanourakis-8844/transcript/734k6cgonmqmzj3"><img src="https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a> <a href="https://tryhackme.com/p/darren.fanouraki"><img src="https://img.shields.io/badge/-TryHackMe-1a1a1a?style=for-the-badge&logo=tryhackme" /></a> <a href="https://www.udemy.com/user/darren-fanourakis-2"><img src="https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" /></a>
 
 **A bit about me**
 
@@ -33,142 +24,40 @@ I am looking for an immersive challenge that will further grow my skills and off
 
 | Skill                                                                                                  | Associated Project/Training                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ethics in cybersecurity, historical attacks and how attacks impact businesses                          | <a href="https://
-www.coursera.org
-/account/accomplishments/verify/REALPX66QJJN">Foundations of Cybersecurity</a>                                 |
-| Linux & SQL using CLI to query SQL databases                                                           | <a href="https://
-www.coursera.org
-/account/accomplishments/verify/4FPQ7EXXRJTB">Tools of the Trade: Linux and SQL</a>                            |
-| Network security hardening, architecture & cloud networks                                              | <a href="https://
-www.coursera.org
-/account/accomplishments/verify/ELFD2HU2FKWD">Connect and Protect: Networks and Network Security</a>           |
-| Network traffic analysis , IDS, SIEM queries and investigation                                         | <a href="https://
-www.coursera.org
-/account/accomplishments/verify/YDRYQCNLLFN3">Sound the Alarm: Detection and Response</a>                      |
-| Asset classification , Risk analysis , threat modelling & vulnerability assessments                    | <a href="https://
-www.coursera.org
-/account/accomplishments/verify/QVTL4ADDZ8T5">Assets, Threats, and Vulnerabilities</a>                         |
-| Using playbooks to respond to threats, security auditing , risk management                             | <a href="https://
-www.coursera.org
-/account/accomplishments/verify/PSL5GE97PUMW">Play It Safe: Manage Security Risks</a>                          |
-| Network reconnaissance                                                                                 | <a href="
-https://tryhackme.com/r/room/furthernmap
-">NMAP</a>                                                                                     |
-| DNS enumeration                                                                                        | <a href="
-https://
-tryhackme.com
-/r/room/subdomainenumeration
-">Subdomain Enumeration</a>                                                           |
-| Username enumeration, brute force attacks & cookie tampering                                           | <a href="
-https://
-tryhackme.com
-/r/room/authenticationbypass
-">Fuzz </a>                                                                           |
-| Walking web applications                                                                               | <a href="
-https://
-tryhackme.com
-/r/room/walkinganapplication
-">Web app source inspection ,debug and network inspection using developer tools  </a> |
-| Manipulating URLs and inspecting sites to access restricted accounts and content                       | <a href="
-https://
-tryhackme.com
-/r/room/idor
-">IDOR vulnerability exploit</a>                                                                      |
-| Digital forensics ,Exif viewer ,metadata analysis and gathering GPS co-ordinates from image metadata   | <a href="
-https://
-tryhackme.com
-/r/room/subdomainenumeration
-">Subdomain Enumeration</a>                                                           |
-| Creating & deploying trojans, worms & using Spytech spyware                                            | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Man-in-the-Middle (MITM) Attack using Cain & Abel                                                      | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| MAC Flooding using macof                                                                               | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| DoS Attack on a Target Host using hping3                                                               | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| SQL Injection Attack Against MSSQL to Extract Databases using sqlmap                                   | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Parameter Tampering using Burp Suite                                                                   | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Audit System Passwords using John-the-Ripper                                                           | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Social Engineering                                                                                     | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Crack a WPA2 Network using Aircrack-ng                                                                 | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Hack an Android Device by Creating Binary Payloads                                                     | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Exploit Open S3 Buckets using AWS CLI                                                                  | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Implement Access Controls in Windows Machine                                                           | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Manage Access Controls in Linux Machine                                                                | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Implement Role-Based Access Control in Windows Admin Center (WAC)                                      | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Password Policies using Windows Group Policy                                                           | <a href="
-https://
-codered.eccouncil.org
-/
-">EC Council Certified Cybersecurity Technician</a>                                                      |
-| Shodan,DNS Twist, DNS Dumpster                                                                         | <a href="https://
-www.myosint.training
-/certificates/srj5ez9c1n">MyOSINT Open Source Intelligence Gathering</a>                                   |
-| Intelligence gathering , Data funnelling to process information into usable intel                      | <a href="
-https://
-verify.skilljar.com
-/c/ptigo8ummcee
-">Recorded Future Intelligence Fundamentals</a>                                              |
+| Ethics in cybersecurity, historical attacks and how attacks impact businesses                          | <a href="https://www.coursera.org/account/accomplishments/verify/REALPX66QJJN">Foundations of Cybersecurity</a>                                 |
+| Linux & SQL using CLI to query SQL databases                                                           | <a href="https://www.coursera.org/account/accomplishments/verify/4FPQ7EXXRJTB">Tools of the Trade: Linux and SQL</a>                            |
+| Network security hardening, architecture & cloud networks                                              | <a href="https://www.coursera.org/account/accomplishments/verify/ELFD2HU2FKWD">Connect and Protect: Networks and Network Security</a>           |
+| Network traffic analysis , IDS, SIEM queries and investigation                                         | <a href="https://www.coursera.org/account/accomplishments/verify/YDRYQCNLLFN3">Sound the Alarm: Detection and Response</a>                      |
+| Asset classification , Risk analysis , threat modelling & vulnerability assessments                    | <a href="https://www.coursera.org/account/accomplishments/verify/QVTL4ADDZ8T5">Assets, Threats, and Vulnerabilities</a>                         |
+| Using playbooks to respond to threats, security auditing , risk management                             | <a href="https://www.coursera.org/account/accomplishments/verify/PSL5GE97PUMW">Play It Safe: Manage Security Risks</a>                          |
+| Network reconnaissance                                                                                 | <a href="https://tryhackme.com/r/room/furthernmap">NMAP</a>                                                                                     |
+| DNS enumeration                                                                                        | <a href="https://tryhackme.com/r/room/subdomainenumeration">Subdomain Enumeration</a>                                                           |
+| Username enumeration, brute force attacks & cookie tampering                                           | <a href="https://tryhackme.com/r/room/authenticationbypass">Fuzz </a>                                                                           |
+| Walking web applications                                                                               | <a href="https://tryhackme.com/r/room/walkinganapplication">Web app source inspection ,debug and network inspection using developer tools  </a> |
+| Manipulating URLs and inspecting sites to access restricted accounts and content                       | <a href="https://tryhackme.com/r/room/idor">IDOR vulnerability exploit</a>                                                                      |
+| Digital forensics ,Exif viewer ,metadata analysis and gathering GPS co-ordinates from image metadata   | <a href="https://tryhackme.com/r/room/subdomainenumeration">Subdomain Enumeration</a>                                                           |
+| Creating & deploying trojans, worms & using Spytech spyware                                            | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Man-in-the-Middle (MITM) Attack using Cain & Abel                                                      | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| MAC Flooding using macof                                                                               | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| DoS Attack on a Target Host using hping3                                                               | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| SQL Injection Attack Against MSSQL to Extract Databases using sqlmap                                   | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Parameter Tampering using Burp Suite                                                                   | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Audit System Passwords using John-the-Ripper                                                           | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Social Engineering                                                                                     | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Crack a WPA2 Network using Aircrack-ng                                                                 | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Hack an Android Device by Creating Binary Payloads                                                     | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Exploit Open S3 Buckets using AWS CLI                                                                  | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Implement Access Controls in Windows Machine                                                           | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Manage Access Controls in Linux Machine                                                                | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Implement Role-Based Access Control in Windows Admin Center (WAC)                                      | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Password Policies using Windows Group Policy                                                           | <a href="https://codered.eccouncil.org/">EC Council Certified Cybersecurity Technician</a>                                                      |
+| Shodan,DNS Twist, DNS Dumpster                                                                         | <a href="https://www.myosint.training/certificates/srj5ez9c1n">MyOSINT Open Source Intelligence Gathering</a>                                   |
+| Intelligence gathering , Data funnelling to process information into usable intel                      | <a href="https://verify.skilljar.com/c/ptigo8ummcee">Recorded Future Intelligence Fundamentals</a>                                              |
 | Mimecast ,Defender for 365 & Vipre mail security configuration + maintenance                           | <a href="">Email Security Solutions</a>                                                                                                         |
 | Bit Defender,ESET,Defender for Endpoint AV, Heimdal deployment ,configuration, maintenance and support | <a href="">Antivirus Solutions</a>                                                                                                              |
 | Cloud workloads migration to M365 using BitTitan                                                       | <a href="">Cloud Workloads Migration With BitTitan</a>                                                                                          |
 | Cloud workloads migration to M365 using AvePoint                                                       | <a href="">Cloud Workloads Migration With AvePoint Fly</a>                                                                                      |
-| Business workloads migration to M365 using Mover.io & Exchange admin centre migration                  | <a href="">
-mover.io
- and EXO admin migration tools </a>                                                                                          |
+| Business workloads migration to M365 using Mover.io & Exchange admin centre migration                  | <a href="">mover.io and EXO admin migration tools </a>                                                                                          |
 | Security awareness, ISO ,Phishing training content creating and staff training                         | <a href="">Training and upskilling</a>                                                                                                          |
 | PFsense ,Sophos, Cyberoam, Cisco Meraki & ForcePoint Firewall deployment and maintenance               | <a href="">IDS,IPS,NIDS,NIPS, Firewall</a>                                                                                                      |
 | Meraki AP, UniFi , Alcatel ,Ruckus,TP link, Zyxel and Tenda AP deployment & maintenance                | <a href="">WLAN Solutions</a>                                                                                                                   |
