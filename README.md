@@ -137,6 +137,18 @@ I am looking for an immersive challenge that will further grow my skills and off
     
 </div>
 
+### OSINT
+<div>
+    <img src="https://img.shields.io/badge/-OSINT%20Framework-007EC6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Pimeyes-800080?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Jimple-007EC6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-exiv2-007EC6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Google%20Reverse%20Image%20Search-4CAF50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SmugMug-FF0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Creepy-4CAF50?style=for-the-badge" />
+    
+</div>
+
 
 
 ## Projects
@@ -144,3 +156,4 @@ I am looking for an immersive challenge that will further grow my skills and off
 - Bad USB with Pico Pi & Circuit Python (Rick Roll, Credential Dump ,Reverse Shell)
 - RPI 5 Kali Attack & Defence box (Kali Linux & Kali Purple)
 - RPI 5 running docker ,Pi-hole with custom block lists,UniFi controller and LockKnife
+- Kali Nethunter Non-Rooted Android device
