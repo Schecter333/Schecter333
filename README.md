@@ -136,6 +136,8 @@ My current ventures have given me some exposure to physical security with lock p
 ### OSINT
 <div>
     <img src="https://img.shields.io/badge/-OSINT%20Framework-007EC6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Cleanup.Pictures-007EC6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Yandex-FF0000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Pimeyes-800080?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Jimple-007EC6?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-exiv2-007EC6?style=for-the-badge" />
