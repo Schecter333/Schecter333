@@ -13,12 +13,6 @@ I enjoy actively learning about new technologies as well as how to attack and de
 I actively seek out challenges and opportunities to develop new skills in the security field.
 My current ventures have given me some exposure to physical security with lock picking as well as various "auditing tools" that I built using Raspberry PI & PI Pico devices.
 
-## Objective
-
-My journey has led me to a stage in my career where I want to focus on threat analysis and threat intelligence.
-I am looking for an immersive challenge that will further grow my skills and offer me an opportunity at a comfortable life with the freedom to work remotely from different parts of the world.
-
-
 ## Skills
 
 
