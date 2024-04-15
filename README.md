@@ -69,6 +69,8 @@ I am looking for an immersive challenge that will further grow my skills and off
 | Project management                 | <a href="">Project management</a>  |
 | Lockpicking basics                | <a href="">Physical Security Testing</a>  |
 | Intune cloud only and hybrid deployment                | <a href="">Intune and MDM</a>  |
+| Exiv2 , Jimple                 | <a href="">Image Metadata Extraction</a>  |
+| Pimeyes , Google Reverse Image Search, Smugmug                 | <a href="">Reverse Image Search</a>  |
 
 
 
